@@ -2,3 +2,5 @@
 # no textual diff, no merge attempts, no EOL conversion.
 *.TP binary
 *.tp binary
+*.PDF binary
+*.pdf binary
